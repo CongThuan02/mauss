@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Archive\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "map": [
+                {
+                    "source": "D:\\Archive\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "from": {
+                        "startLines": "3,13",
+                        "startColumns": "4,4",
+                        "startOffsets": "176,819",
+                        "endLines": "7,15",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,985"
+                    },
+                    "to": {
+                        "startLines": "2,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,352",
+                        "endLines": "6,9",
+                        "endColumns": "12,12",
+                        "endOffsets": "347,516"
+                    }
+                }
+            ]
+        }
+    ]
+}
